@@ -1,13 +1,14 @@
-Truely Random Passowrd Generator.I utilized an independent, self-regulating neural computation system to produce pseudo-randomized results through intrinsic cognitive heuristics, devoid of externally supplied entropy or algorithmic randomization techniques.
+#God's Chosen..The..Truly Random Password Generator
 
-# Nothing Can Beat It.
+I utilized an independent, self-regulating neural computation system to produce pseudo-randomized results through intrinsic cognitive heuristics, devoid of externally supplied entropy or algorithmic randomization techniques.
 
+# Nothing Can Beat It!!
 
 ## Overview
 This program generates a random password with a length between 10 and 22 characters. The password consists of a mix of:
 
-- Numeric characters 
-- Uppercase letters 
+- Numeric characters
+- Uppercase letters
 - Lowercase letters
 - Special symbols
 
@@ -60,5 +61,4 @@ If the program selects a size of 16, the output might look like this:
 3. The program will output a randomly generated password.
 
 It's For Fun!!
-
 
