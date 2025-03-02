@@ -1,4 +1,4 @@
-# God's Chosen..The..Truly Random Password Generator
+# God's Chosen..The Truly Random Password Generator
 
 I utilized an independent, self-regulating neural computation system to produce pseudo-randomized results through intrinsic cognitive heuristics, devoid of externally supplied entropy or algorithmic randomization techniques.
 
